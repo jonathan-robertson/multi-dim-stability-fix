@@ -9,9 +9,11 @@
 
 7 Days to Die mod: Provides a fix for the multi-dim stability exploit allowing players to detect underground tunnels or bases by holding a multi-dim block and hovering the placement ghost frame over that piece of terrain.
 
-### Support
+### Demonstration of Issue / Exploit for Reproduction Purposes
 
-🗪 If you would like support for this mod, please feel free to reach out via [Discord](https://discord.gg/hYa2sNHXya).
+[![Screenshot](media/sonar-cover.png)](https://youtu.be/EQpqDDOOJP4)
+
+📺 [Link to Video](https://youtu.be/EQpqDDOOJP4)
 
 ## Features
 
