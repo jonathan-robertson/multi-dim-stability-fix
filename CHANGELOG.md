@@ -8,4 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-01-01
 
 - add fix for vertical multi-dim w/ no stability
+- add video and screenshot for demonstration
 - trace local ghost stability frame calculations
