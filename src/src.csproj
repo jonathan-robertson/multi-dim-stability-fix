@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\ConsoleCmdMultiDimStabilityFix.cs" />
     <Compile Include="ModApi.cs" />
     <Compile Include="Patches\StabilityCalculator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
