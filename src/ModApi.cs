@@ -18,23 +18,10 @@ namespace MultiDimStabilityFix
             try
             {
                 new Harmony(GetType().ToString()).PatchAll(Assembly.GetExecutingAssembly());
-                ModEvents.GameStartDone.RegisterHandler(OnGameStartDone);
             }
             catch (Exception e)
             {
                 _log.Error($"Failed to start up Off World Fix mod; take a look at logs for guidance but feel free to also reach out to the mod maintainer {ModMaintainer} via {SupportLink}", e);
-            }
-        }
-
-        private static void OnGameStartDone()
-        {
-            try
-            {
-                // TODO
-            }
-            catch (Exception e)
-            {
-                _log.Error($"OnGameStartDone Failed for Multi-Dim Stability Fix mod; take a look at logs for guidance but feel free to also reach out to the mod maintainer {ModMaintainer} via {SupportLink}", e);
             }
         }
     }
