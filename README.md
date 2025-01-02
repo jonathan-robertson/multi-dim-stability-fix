@@ -35,9 +35,9 @@ An example of this kind of block would be the `Workbench` or a `bale of hay`.
 > - `help * <partial or complete command name>`
 > - or get details about this (or any) command and its options by running `help <command>`
 
-|        primary         | alternate |     params     | description                                                           |
-| :--------------------: | :-------: | :------------: | --------------------------------------------------------------------- |
-| `multidimstabilityfix` |  `mdsf`   | `debug` / `dm` | enable/disable debug/trace logging for this mod (disabled by default) |
+|        primary         | alternate | params  | description                                                           |
+| :--------------------: | :-------: | :-----: | --------------------------------------------------------------------- |
+| `multidimstabilityfix` |  `mdsf`   | `debug` | enable/disable debug/trace logging for this mod (disabled by default) |
 
 *Note that leaving debug mode on can have a negative impact on performance. It is therefore recommended to only turn it on while troubleshooting and then disable it afterwards.*
 
